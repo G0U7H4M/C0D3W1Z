@@ -1,6 +1,6 @@
 👋 Hi there, I'm C0D3W1Z and I'm a 14 year old High School who loves to code!
 
-My Profile Views
+My Profile Views:
 
 [![HitCount](https://hits.dwyl.com/C0D3W1Z/C0D3W1Z/C0D3W1Z.svg?style=flat)](http://hits.dwyl.com/C0D3W1Z/C0D3W1Z/C0D3W1Z)
 
