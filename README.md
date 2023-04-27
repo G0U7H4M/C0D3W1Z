@@ -12,6 +12,6 @@ Some of my hobbies and interests are:
 
 `* 🏀 My favorite sport to play for fun is Basketball!`
 
-`* 📚 My goal is to go to UC Berkeley and become a very skilled software engineer!`
+`* 📚 My goal is to go to UC Berkeley and become a very skilled programmer!`
 
 These are some things about me, thanks for reading about me! 😊
