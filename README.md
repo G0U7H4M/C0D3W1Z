@@ -1,9 +1,5 @@
 👋 Hi there, I'm Goutham Mahesh and I'm a 14 year old High Schooler who loves to code!
 
-My Profile Views:
-
-[![HitCount](https://hits.dwyl.com/C0D3W1Z/C0D3W1Z/C0D3W1Z.svg?style=flat)](http://hits.dwyl.com/C0D3W1Z/C0D3W1Z/C0D3W1Z)
-
 Some of my hobbies and interests are:
 
 `* 🖥️ I mainly code using Python, HTML, CSS, and Javascript`
